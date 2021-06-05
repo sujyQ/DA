@@ -1,2 +1,3 @@
 # DA
-domain adaptation studies with Google Colab
+domain adaptation studies(in the past) with Google Colab
+
